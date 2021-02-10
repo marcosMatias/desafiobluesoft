@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: desafio
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: marcos
+Implementation-Vendor-Id: br.com.bluesoft
+Build-Jdk: 1.8.0_261
+Implementation-URL: http://projects.spring.io/spring-boot/desafio/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
